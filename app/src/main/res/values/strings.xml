@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Image Slider</string>
+    <string name="todo">TODO</string>
+
+    <array name="add">
+        <item></item>
+
+    </array>
+
+    <string-array name="arr">
+        <item>ImageSlider</item>
+        <item>Explore the most popular restaurants</item>
+        <item>Find your choice of cuisine</item>
+        <item>Vegetarian delights</item>
+        <item>The very best picks in your city</item>
+        <item>Check out the most happening places</item>
+        <item>Happiness is a slice of pizza</item>
+        <item>Spill the beans</item>
+        <item>Find your next tasty treat</item>
+        <item>Satiate your sweet cravings</item>
+    </string-array>
+</resources>
